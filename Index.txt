@@ -37,7 +37,7 @@
           <td align="center"> <font size="5"> <a href="List.html" style="color:pink;font-family:Fantasy;"> <b> List </b> </a></font> </td>
            <td> </td>
            <td> </td>
-          <td align="center"> <font size="5"> <a href="Inline Poemt.html" style="color:pink;font-family:Fantasy;"> <b> Inline Poem</b> </a></font> </td>
+          <td align="center"> <font size="5"> <a href="Inline Poem.html" style="color:pink;font-family:Fantasy;"> <b> Inline Poem</b> </a></font> </td>
           </tr>
        
    <tr>
