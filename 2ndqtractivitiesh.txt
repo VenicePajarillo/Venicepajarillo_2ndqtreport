@@ -1,0 +1,45 @@
+<html>
+<head> <title> 2nd Quarter Activities </title> 
+<link rel="stylesheet" href="2ndqtrr.css">
+</head>
+<body>
+  <br> <br>
+  <hr align="center" size="10" color="#4B6043"> 
+  <hr align="center" size="10" color="#4B6043">
+  <h1> 2nd Quarter Activities </h1> 
+
+<br> 
+<h2> Intramurals '24-'25 </h2> <br> 
+<video controls="controls"> <source src="intramsvid.mp4" type="video/mp4"> </video> 
+  <p> This year's intramurals weren't as fun as last year's, though I enjoyed a lot of the new activities <br>  that the MAPEH club offered. I also joined one sport, which was volleyball.
+  </p> 
+
+<br> 
+<h2> AP Green Couture </h2> <br> 
+<img class="image" src="apct.jpg">
+<img class="image" src="apct2.jpg">
+  <p> The process of creating our representative's costume was very enjoyable. <br>  I learned a lot about myself and discovered skills I didn’t know I had.  <br> Working on the dress     was fun, and  I improved many skills  <br>   that will be helpful later in life.   </p> 
+
+<br> 
+<h2> AP Green Couture </h2> <br> 
+<img class="image" src="scipg.jpg">
+  <p> I’m glad we survived this project, especially since we were given only a short time to prepare for it.</p>
+
+<br>
+<h2> Booklandia</h2> <br> 
+<video  controls="controls"> <source src="booklandiavid.mp4" type="video/mp4"> </video> 
+  <p> This event was so much fun! I assisted our representative along  with the other props team members, <br>  and the overall  experience was amazing.</p> 
+
+<br> 
+<h2> Persona Articulata </h2> <br> 
+<img class="image" src="persona.jpg">
+  <p> Our representative won, and I’m very proud of her. This was one of the first wins our section achieved.</p> <br>
+
+  <hr align="center" size="10" color="#4B6043"> 
+  <hr align="center" size="10" color="#4B6043">
+
+</body>
+</html>
+
+
+

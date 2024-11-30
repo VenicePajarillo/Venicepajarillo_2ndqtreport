@@ -1,0 +1,26 @@
+<html>
+<head>
+  <title> 2nd Quarter Reflection </title>
+  <link rel="stylesheet" href="2ndqtrr.css" type="text/css">
+</head>
+<body> <br>
+  <hr align="center" size="10" color="#4B6043"> 
+  <hr align="center" size="10" color="#4B6043"> </br>
+   <h1 align="center" style="font-size:60px;color:lightyellow;font-family:Fantasy;"> <a name="about me"> Reflection </a> </h1>
+  <table border="1" align="center" height="300" width="450" background="ab40d1e7a31744e2843a3e9253b2f3d2.jpg"> 
+  </table> 
+    
+    <p style="text-align:center;font-family:fantasy;font-size:30px;color:lightyellow;margin-left:50px;margin-right:50px;"> 
+      As the 2nd quarter ends, I feel proud about everything that I learned
+      from ICT, especially regarding CSS. At first, I struggled to understand
+      how styles worked and how to make the websites look better. The more we 
+      practiced, though, it became fun and rewarding. I enjoyed discovering that simple 
+      lines of code would change colors, layouts, or fonts to make a dull page interesting. 
+      This quarter taught me not only technical skills but also the importance of 
+      creativity and patience. I’m excited to use what I’ve learned in future
+      projects and to keep improving my web design skills. </p>
+   <hr align="center" size="10" color="#4B6043"> 
+   <hr align="center" size="10" color="#4B6043"> </br>
+
+</body>
+</html>

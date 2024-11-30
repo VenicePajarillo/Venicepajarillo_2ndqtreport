@@ -1,0 +1,35 @@
+body{background-image:url(mainbg.jpg);}
+
+p{padding: 60; 
+  float:right;
+  font-family:fantasy;
+  font-size:20px;
+  color:lightyellow;}
+
+video{margin-left: 50; 
+  width: 300; 
+  height: 220;}
+
+img{margin-left: 50; 
+  width: 200; 
+  height: 240;}
+
+#image img{display: block;
+  margin-left:auto;
+  margin-right:auto;
+  width: 450; 
+  height: 300;}
+
+h1{font-size:60px; 
+  color:lightyellow;
+  font-family:Fantasy; 
+  text-align: center;}
+
+h2{margin-left: 20;
+  font-family:fantasy;
+  color:lightblue;
+  font-size:30px;}
+
+table{margin-left: auto;
+      margin-right: auto; 
+      padding:30;}
